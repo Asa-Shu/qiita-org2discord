@@ -1,0 +1,1 @@
+結びつけたQiita Organizationに新着投稿があった際、差分を投稿する
